@@ -2,954 +2,954 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/blog/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/blog/</loc>
     <lastmod>2023-08-30T20:30:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/blog/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/blog/"
+                href="https://juvalmar2915.github.io/mikroways-pages/blog/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/categories/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/categories/</loc>
     <lastmod>2023-08-30T20:30:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/categories/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/categories/"
+                href="https://juvalmar2915.github.io/mikroways-pages/categories/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/blog/2023-08-30-terraform-with-sops/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/blog/2023-08-30-terraform-with-sops/</loc>
     <lastmod>2023-08-30T20:30:55-03:00</lastmod>
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/categories/devsecops/</loc>
-    <lastmod>2023-08-30T20:30:55-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/categories/devsecops/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/categories/devsecops/"
-                />
-  </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/tags/encryption/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/categories/devsecops/</loc>
     <lastmod>2023-08-30T20:30:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/tags/encryption/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/categories/devsecops/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/tags/encryption/"
+                href="https://juvalmar2915.github.io/mikroways-pages/categories/devsecops/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/tags/git/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/tags/encryption/</loc>
     <lastmod>2023-08-30T20:30:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/tags/git/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/tags/encryption/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/tags/git/"
+                href="https://juvalmar2915.github.io/mikroways-pages/tags/encryption/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/tags/infrastructure/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/tags/git/</loc>
     <lastmod>2023-08-30T20:30:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/tags/infrastructure/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/tags/git/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/tags/infrastructure/"
+                href="https://juvalmar2915.github.io/mikroways-pages/tags/git/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/tags/infrastructure/</loc>
     <lastmod>2023-08-30T20:30:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/tags/infrastructure/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/"
+                href="https://juvalmar2915.github.io/mikroways-pages/tags/infrastructure/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/tags/sops/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/</loc>
     <lastmod>2023-08-30T20:30:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/tags/sops/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/tags/sops/"
+                href="https://juvalmar2915.github.io/mikroways-pages/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/tags/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/tags/sops/</loc>
     <lastmod>2023-08-30T20:30:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/tags/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/tags/sops/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/tags/"
+                href="https://juvalmar2915.github.io/mikroways-pages/tags/sops/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/tags/terraform/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/tags/</loc>
     <lastmod>2023-08-30T20:30:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/tags/terraform/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/tags/terraform/"
+                href="https://juvalmar2915.github.io/mikroways-pages/tags/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/tags/version/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/tags/terraform/</loc>
     <lastmod>2023-08-30T20:30:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/tags/version/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/tags/terraform/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/tags/version/"
+                href="https://juvalmar2915.github.io/mikroways-pages/tags/terraform/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/tags/cache/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/tags/version/</loc>
+    <lastmod>2023-08-30T20:30:55-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ar"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/tags/version/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://juvalmar2915.github.io/mikroways-pages/tags/version/"
+                />
+  </url><url>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/tags/cache/</loc>
     <lastmod>2023-08-25T01:37:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/tags/cache/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/tags/cache/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/tags/cache/"
+                href="https://juvalmar2915.github.io/mikroways-pages/tags/cache/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/tags/crio/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/tags/crio/</loc>
     <lastmod>2023-08-25T01:37:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/tags/crio/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/tags/crio/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/tags/crio/"
+                href="https://juvalmar2915.github.io/mikroways-pages/tags/crio/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/tags/harbor/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/tags/harbor/</loc>
     <lastmod>2023-08-25T01:37:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/tags/harbor/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/tags/harbor/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/tags/harbor/"
+                href="https://juvalmar2915.github.io/mikroways-pages/tags/harbor/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/blog/2023-08-25-harbor-in-okd/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/blog/2023-08-25-harbor-in-okd/</loc>
     <lastmod>2023-08-25T01:37:55-03:00</lastmod>
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/tags/okd/</loc>
-    <lastmod>2023-08-25T01:37:55-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/tags/okd/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/tags/okd/"
-                />
-  </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/tags/openshift/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/tags/okd/</loc>
     <lastmod>2023-08-25T01:37:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/tags/openshift/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/tags/okd/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/tags/openshift/"
+                href="https://juvalmar2915.github.io/mikroways-pages/tags/okd/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/tags/redhat/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/tags/openshift/</loc>
     <lastmod>2023-08-25T01:37:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/tags/redhat/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/tags/openshift/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/tags/redhat/"
+                href="https://juvalmar2915.github.io/mikroways-pages/tags/openshift/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/tags/registry-mirror/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/tags/redhat/</loc>
     <lastmod>2023-08-25T01:37:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/tags/registry-mirror/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/tags/redhat/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/tags/registry-mirror/"
+                href="https://juvalmar2915.github.io/mikroways-pages/tags/redhat/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/tags/automation/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/tags/registry-mirror/</loc>
+    <lastmod>2023-08-25T01:37:55-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ar"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/tags/registry-mirror/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://juvalmar2915.github.io/mikroways-pages/tags/registry-mirror/"
+                />
+  </url><url>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/tags/automation/</loc>
     <lastmod>2022-02-11T09:52:58-03:00</lastmod>
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/tags/capistrano/</loc>
-    <lastmod>2022-02-11T09:52:58-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/tags/capistrano/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/tags/capistrano/"
-                />
-  </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/blog/2022-02-11-gitlab-ci-with-capistrano/</loc>
-    <lastmod>2022-02-11T09:52:58-03:00</lastmod>
-  </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/tags/gitlab-ci/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/tags/capistrano/</loc>
     <lastmod>2022-02-11T09:52:58-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/tags/gitlab-ci/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/tags/capistrano/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/tags/gitlab-ci/"
+                href="https://juvalmar2915.github.io/mikroways-pages/tags/capistrano/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/blog/2022-01-28-task-automation-using-capistrano/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/blog/2022-02-11-gitlab-ci-with-capistrano/</loc>
+    <lastmod>2022-02-11T09:52:58-03:00</lastmod>
+  </url><url>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/tags/gitlab-ci/</loc>
+    <lastmod>2022-02-11T09:52:58-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ar"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/tags/gitlab-ci/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://juvalmar2915.github.io/mikroways-pages/tags/gitlab-ci/"
+                />
+  </url><url>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/blog/2022-01-28-task-automation-using-capistrano/</loc>
     <lastmod>2022-01-28T11:06:24-03:00</lastmod>
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/tags/containerd/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/tags/containerd/</loc>
     <lastmod>2021-12-30T11:47:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/tags/containerd/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/tags/containerd/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/tags/containerd/"
+                href="https://juvalmar2915.github.io/mikroways-pages/tags/containerd/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/blog/2021-12-30-containerd-with-harbor/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/blog/2021-12-30-containerd-with-harbor/</loc>
     <lastmod>2021-12-30T11:47:55-03:00</lastmod>
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/tags/images/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/tags/images/</loc>
     <lastmod>2021-12-30T11:47:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/tags/images/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/tags/images/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/tags/images/"
+                href="https://juvalmar2915.github.io/mikroways-pages/tags/images/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/blog/2021-12-29-crio-with-harbor/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/blog/2021-12-29-crio-with-harbor/</loc>
     <lastmod>2021-12-29T11:47:55-03:00</lastmod>
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/tags/dex/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/tags/dex/</loc>
     <lastmod>2021-12-23T11:47:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/tags/dex/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/tags/dex/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/tags/dex/"
+                href="https://juvalmar2915.github.io/mikroways-pages/tags/dex/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/tags/docker-compose/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/tags/docker-compose/</loc>
     <lastmod>2021-12-23T11:47:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/tags/docker-compose/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/tags/docker-compose/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/tags/docker-compose/"
+                href="https://juvalmar2915.github.io/mikroways-pages/tags/docker-compose/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/tags/traefik/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/tags/traefik/</loc>
     <lastmod>2021-12-23T11:47:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/tags/traefik/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/tags/traefik/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/tags/traefik/"
+                href="https://juvalmar2915.github.io/mikroways-pages/tags/traefik/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/blog/2021-12-23-use-harbor-as-image-cache/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/blog/2021-12-23-use-harbor-as-image-cache/</loc>
     <lastmod>2021-12-23T11:47:55-03:00</lastmod>
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/tags/ansible/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/tags/ansible/</loc>
     <lastmod>2021-11-01T12:14:34-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/tags/ansible/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/tags/ansible/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/tags/ansible/"
+                href="https://juvalmar2915.github.io/mikroways-pages/tags/ansible/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/tags/clusterapi/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/tags/clusterapi/</loc>
     <lastmod>2021-11-01T12:14:34-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/tags/clusterapi/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/tags/clusterapi/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/tags/clusterapi/"
+                href="https://juvalmar2915.github.io/mikroways-pages/tags/clusterapi/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/blog/2021-11-03-kubernetes-clusterapi/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/blog/2021-11-03-kubernetes-clusterapi/</loc>
     <lastmod>2021-11-01T12:14:34-03:00</lastmod>
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/tags/kubernetes/</loc>
-    <lastmod>2021-11-01T12:14:34-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/tags/kubernetes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/tags/kubernetes/"
-                />
-  </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/tags/vmware/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/tags/kubernetes/</loc>
     <lastmod>2021-11-01T12:14:34-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/tags/vmware/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/tags/kubernetes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/tags/vmware/"
+                href="https://juvalmar2915.github.io/mikroways-pages/tags/kubernetes/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/tags/vsphere/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/tags/vmware/</loc>
     <lastmod>2021-11-01T12:14:34-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/tags/vsphere/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/tags/vmware/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/tags/vsphere/"
+                href="https://juvalmar2915.github.io/mikroways-pages/tags/vmware/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/tags/aws/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/tags/vsphere/</loc>
+    <lastmod>2021-11-01T12:14:34-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ar"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/tags/vsphere/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://juvalmar2915.github.io/mikroways-pages/tags/vsphere/"
+                />
+  </url><url>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/tags/aws/</loc>
     <lastmod>2021-10-04T12:14:34-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/tags/aws/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/tags/aws/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/tags/aws/"
+                href="https://juvalmar2915.github.io/mikroways-pages/tags/aws/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/categories/mikroways/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/categories/mikroways/</loc>
     <lastmod>2021-10-04T12:14:34-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/categories/mikroways/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/categories/mikroways/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/categories/mikroways/"
+                href="https://juvalmar2915.github.io/mikroways-pages/categories/mikroways/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/blog/2021-10-04-consulting-partner-select-aws/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/blog/2021-10-04-consulting-partner-select-aws/</loc>
     <lastmod>2021-10-04T12:14:34-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/blog/2021-10-04-consulting-partner-select-aws/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/blog/2021-10-04-consulting-partner-select-aws/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/blog/2021-10-04-consulting-partner-select-aws/"
+                href="https://juvalmar2915.github.io/mikroways-pages/blog/2021-10-04-consulting-partner-select-aws/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/tags/news/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/tags/news/</loc>
     <lastmod>2021-10-04T12:14:34-03:00</lastmod>
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/portfolio/banco-columbia/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/portfolio/banco-columbia/</loc>
     <lastmod>1970-01-01T00:00:06+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/portfolio/banco-columbia/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/portfolio/banco-columbia/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/portfolio/banco-columbia/"
+                href="https://juvalmar2915.github.io/mikroways-pages/portfolio/banco-columbia/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/portfolio/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/portfolio/</loc>
     <lastmod>1970-01-01T00:00:06+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/portfolio/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/portfolio/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/portfolio/"
+                href="https://juvalmar2915.github.io/mikroways-pages/portfolio/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/portfolio/balanz/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/portfolio/balanz/</loc>
     <lastmod>1970-01-01T00:00:05+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/portfolio/balanz/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/portfolio/balanz/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/portfolio/balanz/"
+                href="https://juvalmar2915.github.io/mikroways-pages/portfolio/balanz/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/portfolio/automatizacion-vt/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/portfolio/automatizacion-vt/</loc>
     <lastmod>1970-01-01T00:00:04+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/portfolio/automatizacion-vt/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/portfolio/automatizacion-vt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/portfolio/automatizacion-vt/"
+                href="https://juvalmar2915.github.io/mikroways-pages/portfolio/automatizacion-vt/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/portfolio/monitoreo-senasa/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/portfolio/monitoreo-senasa/</loc>
     <lastmod>1970-01-01T00:00:03+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/portfolio/monitoreo-senasa/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/portfolio/monitoreo-senasa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/portfolio/monitoreo-senasa/"
+                href="https://juvalmar2915.github.io/mikroways-pages/portfolio/monitoreo-senasa/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/portfolio/circular-lab-costos/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/portfolio/circular-lab-costos/</loc>
     <lastmod>1970-01-01T00:00:02+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/portfolio/circular-lab-costos/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/portfolio/circular-lab-costos/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/portfolio/circular-lab-costos/"
+                href="https://juvalmar2915.github.io/mikroways-pages/portfolio/circular-lab-costos/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/contact/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/contact/</loc>
     <lastmod>1970-01-01T00:00:01+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/contact/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/contact/"
+                href="https://juvalmar2915.github.io/mikroways-pages/contact/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/portfolio/bluedraft-cicd/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/portfolio/bluedraft-cicd/</loc>
     <lastmod>1970-01-01T00:00:01+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/portfolio/bluedraft-cicd/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/portfolio/bluedraft-cicd/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/portfolio/bluedraft-cicd/"
+                href="https://juvalmar2915.github.io/mikroways-pages/portfolio/bluedraft-cicd/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/ebooks/ebook2024/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/ebooks/ebook2024/</loc>
     <lastmod>1970-01-01T00:00:01+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/ebooks/ebook2024/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/ebooks/ebook2024/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/ebooks/ebook2024/"
+                href="https://juvalmar2915.github.io/mikroways-pages/ebooks/ebook2024/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/ebooks/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/ebooks/</loc>
     <lastmod>1970-01-01T00:00:01+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/ebooks/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/ebooks/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/ebooks/"
+                href="https://juvalmar2915.github.io/mikroways-pages/ebooks/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/contact/succesful/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/contact/succesful/</loc>
     <lastmod>1970-01-01T00:00:01+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/contact/succesful/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/contact/succesful/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/contact/succesful/"
+                href="https://juvalmar2915.github.io/mikroways-pages/contact/succesful/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/apply/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/apply/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/apply/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/apply/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/apply/"
+                href="https://juvalmar2915.github.io/mikroways-pages/apply/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/author/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/author/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/author/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/author/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/author/"
+                href="https://juvalmar2915.github.io/mikroways-pages/author/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/business-continuity/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/business-continuity/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/business-continuity/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/business-continuity/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/business-continuity/"
+                href="https://juvalmar2915.github.io/mikroways-pages/business-continuity/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/training/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/training/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/training/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/training/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/training/"
+                href="https://juvalmar2915.github.io/mikroways-pages/training/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/career/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/career/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/career/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/career/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/career/"
+                href="https://juvalmar2915.github.io/mikroways-pages/career/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/cloud-native-architecture/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/cloud-native-architecture/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/cloud-native-architecture/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/cloud-native-architecture/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/cloud-native-architecture/"
+                href="https://juvalmar2915.github.io/mikroways-pages/cloud-native-architecture/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/containerization-and-orchestration/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/containerization-and-orchestration/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/containerization-and-orchestration/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/containerization-and-orchestration/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/containerization-and-orchestration/"
+                href="https://juvalmar2915.github.io/mikroways-pages/containerization-and-orchestration/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/continuous-integration-and-deployment/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/continuous-integration-and-deployment/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/continuous-integration-and-deployment/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/continuous-integration-and-deployment/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/continuous-integration-and-deployment/"
+                href="https://juvalmar2915.github.io/mikroways-pages/continuous-integration-and-deployment/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/cybersecurity/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/cybersecurity/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/cybersecurity/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/cybersecurity/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/cybersecurity/"
+                href="https://juvalmar2915.github.io/mikroways-pages/cybersecurity/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/work-with-us/devops-engineer-junior/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/work-with-us/devops-engineer-junior/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/work-with-us/devops-engineer-junior/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/work-with-us/devops-engineer-junior/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/work-with-us/devops-engineer-junior/"
+                href="https://juvalmar2915.github.io/mikroways-pages/work-with-us/devops-engineer-junior/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/work-with-us/devops-engineer-ssr/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/work-with-us/devops-engineer-ssr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/work-with-us/devops-engineer-ssr/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/work-with-us/devops-engineer-ssr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/work-with-us/devops-engineer-ssr/"
+                href="https://juvalmar2915.github.io/mikroways-pages/work-with-us/devops-engineer-ssr/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/work-with-us/devops-engineer-trainee/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/work-with-us/devops-engineer-trainee/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/work-with-us/devops-engineer-trainee/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/work-with-us/devops-engineer-trainee/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/work-with-us/devops-engineer-trainee/"
+                href="https://juvalmar2915.github.io/mikroways-pages/work-with-us/devops-engineer-trainee/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/digital-transformation/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/digital-transformation/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/digital-transformation/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/digital-transformation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/digital-transformation/"
+                href="https://juvalmar2915.github.io/mikroways-pages/digital-transformation/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/faq/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/faq/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/faq/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/faq/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/faq/"
+                href="https://juvalmar2915.github.io/mikroways-pages/faq/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/training/docker/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/training/docker/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/training/docker/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/training/docker/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/training/docker/"
+                href="https://juvalmar2915.github.io/mikroways-pages/training/docker/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/training/kubernetes/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/training/kubernetes/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/training/kubernetes/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/training/kubernetes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/training/kubernetes/"
+                href="https://juvalmar2915.github.io/mikroways-pages/training/kubernetes/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/infrastructure-provisioning/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/infrastructure-provisioning/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/infrastructure-provisioning/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/infrastructure-provisioning/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/infrastructure-provisioning/"
+                href="https://juvalmar2915.github.io/mikroways-pages/infrastructure-provisioning/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/author/john-doe/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/author/john-doe/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/author/john-doe/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/author/john-doe/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/author/john-doe/"
+                href="https://juvalmar2915.github.io/mikroways-pages/author/john-doe/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/monitoring-and-observability/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/monitoring-and-observability/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/monitoring-and-observability/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/monitoring-and-observability/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/monitoring-and-observability/"
+                href="https://juvalmar2915.github.io/mikroways-pages/monitoring-and-observability/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/our-culture/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/our-culture/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/our-culture/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/our-culture/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/our-culture/"
+                href="https://juvalmar2915.github.io/mikroways-pages/our-culture/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/clients/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/clients/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/clients/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/clients/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/clients/"
+                href="https://juvalmar2915.github.io/mikroways-pages/clients/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/platform-engineering/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/platform-engineering/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/platform-engineering/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/platform-engineering/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/platform-engineering/"
+                href="https://juvalmar2915.github.io/mikroways-pages/platform-engineering/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/pricing/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/pricing/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/pricing/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/pricing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/pricing/"
+                href="https://juvalmar2915.github.io/mikroways-pages/pricing/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/privacy-policy/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/privacy-policy/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/privacy-policy/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/privacy-policy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/privacy-policy/"
+                href="https://juvalmar2915.github.io/mikroways-pages/privacy-policy/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/professional-services/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/professional-services/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/professional-services/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/professional-services/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/professional-services/"
+                href="https://juvalmar2915.github.io/mikroways-pages/professional-services/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/about/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/about/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/about/"
+                href="https://juvalmar2915.github.io/mikroways-pages/about/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/team/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/team/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/team/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/team/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/team/"
+                href="https://juvalmar2915.github.io/mikroways-pages/team/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/work-with-us/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/work-with-us/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/work-with-us/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/work-with-us/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/work-with-us/"
+                href="https://juvalmar2915.github.io/mikroways-pages/work-with-us/"
                 />
   </url><url>
-    <loc>https://juvalmar2915.github.io/mikroways.net/training/wfc/</loc>
+    <loc>https://juvalmar2915.github.io/mikroways-pages/training/wfc/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="https://juvalmar2915.github.io/mikroways.net/es/training/wfc/"
+                href="https://juvalmar2915.github.io/mikroways-pages/es/training/wfc/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://juvalmar2915.github.io/mikroways.net/training/wfc/"
+                href="https://juvalmar2915.github.io/mikroways-pages/training/wfc/"
                 />
   </url>
 </urlset>

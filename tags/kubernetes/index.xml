@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>kubernetes on Mikroways</title>
-    <link>https://juvalmar2915.github.io/mikroways.net/tags/kubernetes/</link>
+    <link>https://juvalmar2915.github.io/mikroways-pages/tags/kubernetes/</link>
     <description>Recent content in kubernetes on Mikroways</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Nov 2021 12:14:34 -0300</lastBuildDate>
-    <atom:link href="https://juvalmar2915.github.io/mikroways.net/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://juvalmar2915.github.io/mikroways-pages/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Install Kubernetes on VMware Vsphere</title>
-      <link>https://juvalmar2915.github.io/mikroways.net/blog/2021-11-03-kubernetes-clusterapi/</link>
+      <link>https://juvalmar2915.github.io/mikroways-pages/blog/2021-11-03-kubernetes-clusterapi/</link>
       <pubDate>Mon, 01 Nov 2021 12:14:34 -0300</pubDate>
-      <guid>https://juvalmar2915.github.io/mikroways.net/blog/2021-11-03-kubernetes-clusterapi/</guid>
+      <guid>https://juvalmar2915.github.io/mikroways-pages/blog/2021-11-03-kubernetes-clusterapi/</guid>
       <description>In this post we explain how to automate the installation of Kubernetes on VMware Vsphere using ClusterAPI, among other tools.</description>
     </item>
   </channel>
