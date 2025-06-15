@@ -1,7 +1,9 @@
 name: Deploy
 
 on:
-  push: [main]
+  push:
+    branches:
+      - main # This is the correct way to specify the branch
 
 jobs:
   build_preview:
@@ -33,4 +35,4 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-          publish_branch: gh-pages
+          publish_branch: main
